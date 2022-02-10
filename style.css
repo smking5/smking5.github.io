@@ -5,11 +5,10 @@ h1{
 }
 ul{
     float: right; 
-    padding: 15px; 
+    padding: 50px; 
     border-style: solid;
     border-color: white;
     border-width: 5px; 
-    border-padding: 50px; 
 }
 body{
     background-color: grey;
