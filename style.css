@@ -5,6 +5,7 @@ h1{
 }
 ul{
     float: right; 
+    padding: 15px; 
     border-style: solid;
     border-color: white;
     border-width: 5px; 
