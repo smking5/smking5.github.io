@@ -6,6 +6,7 @@ h1{
 ul{
     float: right; 
     padding: 50px; 
+    margin: 50px;
     border-style: solid;
     border-color: white;
     border-width: 5px; 
