@@ -1,8 +1,9 @@
 h1{
     font-size: 50px;
     font-family: Helvetica;
+    text-align: center;
     color: blue;
 }
-background{
+body{
     background-color: grey;
 }
