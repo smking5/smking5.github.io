@@ -5,8 +5,12 @@ h1{
 }
 
 p {
-    font-size: 30px;
+    font-size: 25px;
     color: DarkMagenta;
+}
+
+a {
+    font-size: 30px
 }
 
 body {
