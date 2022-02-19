@@ -12,6 +12,7 @@ p {
 a {
     font-size: 30px;
     font-family: Trebuchet MS;
+    word-spacing: 10px; 
 }
 
 body {
