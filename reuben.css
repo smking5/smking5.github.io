@@ -1,3 +1,9 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: purple;
+}
+
 body {
   background-color: LightGreen;
   font-family: Trebuchet MS;
